@@ -2,17 +2,8 @@
 # Full Stack AI Mock Interview App
 
 **Welcome to the Full Stack AI Mock Interview App!**  
-This project is designed to help developers enhance their skills through AI-driven mock interviews, providing real-time feedback to simulate a realistic interview experience.
+.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 The Full Stack AI Mock Interview App allows users to practice technical and behavioral interview questions in an interactive environment. The app generates custom questions based on user preferences and delivers instant feedback on answers to help users improve their interview skills.
@@ -36,20 +27,10 @@ The Full Stack AI Mock Interview App allows users to practice technical and beha
 ### Installation
 To get started with the project, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ai-mock-interview.git
-   ```
 
-2. Navigate to the project directory:
-   ```bash
-   cd full-stack-ai-mock-interview-app
-   ```
 
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
+
+
 
 ### Usage
 1. Start the development server:
@@ -84,7 +65,6 @@ We welcome contributions! Please follow these steps to contribute:
 
 For more details, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 
