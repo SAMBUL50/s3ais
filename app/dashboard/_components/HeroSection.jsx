@@ -66,7 +66,7 @@ export default function HeroSection() {
                   Get started
                 </a>
                 <a 
-                  href="/dashboard" 
+                  href="/how-it-works" 
                   className="flex items-center justify-center w-full px-6 py-3 text-base font-semibold leading-6 text-gray-300 transition-colors duration-200 border border-gray-700 rounded-lg sm:w-auto hover:text-white hover:border-gray-500"
                 >
                   Learn more <span aria-hidden="true" className="ml-1">→</span>
